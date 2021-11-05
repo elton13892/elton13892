@@ -1,7 +1,7 @@
 ### Olá, eu sou o Elton Junior 👋
 - Atualmento trabalho como suporte helpdesk
 - Cursando engenharia de software
-- Atualmente focando em aprender mais sobre DevOps
+- focando em aprender mais sobre DevOps
 
 
 
@@ -13,4 +13,12 @@
   
   <div>
   <img align="center" alt="Elton-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Elton-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img align="center" alt="Elton-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img align="center" alt="Elton-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img align="center" alt="Elton-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg" />
+  <img align="center" alt="Elton-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img align="center" alt="Elton-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />  
+  <img align="center" alt="Elton-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  
   </div>
