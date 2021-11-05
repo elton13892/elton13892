@@ -23,7 +23,7 @@
   
   </div>
   <div>
-  #####
+    ![Snake animation](https://github.com/rafaballerini/elton13892/blob/output/github-contribution-grid-snake.svg)
   </div>
   
   <div>
