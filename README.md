@@ -26,6 +26,7 @@
     
   </div>
   
+              ![snake gif](https://github.com/elton13892/elton13892/blob/output/github-contribution-grid-snake.gif)
   
               ![Snake animation](https://github.com/elton13892/elton13892/blob/output/github-contribution-grid-snake.svg)
 
