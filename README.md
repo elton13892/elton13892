@@ -20,6 +20,7 @@
   <img align="center" alt="Elton-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="center" alt="Elton-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />  
   <img align="center" alt="Elton-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+        ![Snake animation](https://github.com/elton13892/elton13892/blob/output/github-contribution-grid-snake.svg)
   
   </div>
   
@@ -28,4 +29,4 @@
   <a href="https://www.linkedin.com/in/eltongazolla" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   </div>
-    ![Snake animation](https://github.com/elton13892/elton13892/blob/output/github-contribution-grid-snake.svg)
+
